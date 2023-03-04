@@ -1,10 +1,4 @@
 <?php
-
-<<<<<<< HEAD
-	function srednia()
-	
->
-=======
 	function srednia(a,b )
 	{
 		return (a+b)/2;
